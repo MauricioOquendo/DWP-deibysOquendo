@@ -199,13 +199,13 @@ body {
 body {
   background: #ffffff;
   color: #777777;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 24px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Angsana New', Angsana New;
   overflow-x: hidden;
 }
 a {
-  color: #39c8e2;
+  color:  #005883;
   text-decoration: none !important;
   -webkit-transition: color 200ms ease-in-out;
   -moz-transition: color 200ms ease-in-out;
@@ -217,7 +217,7 @@ a:hover {
 }
 
 #products a {
-  color: #0066AA;
+  color: #333333;
 }
 
 h1,
@@ -226,7 +226,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Angsana New', Angsana New;
 }
 input.main-button,
 .main-button {
@@ -362,7 +362,7 @@ a#mobile_menu {
   padding-top: 80px;
 }
 .top-c {
-  background: url(../images/slider-bg.png) no-repeat top center;
+  background: url(../images/service-bg.png) no-repeat top center;
   background-size: cover;
   width: 100%;
   height: 504px;
@@ -384,15 +384,15 @@ a#mobile_menu {
 }
 .top-c ul li {
   display: block;
-  margin-bottom: 16px;
-  color: #333333;
+  margin-bottom: 7px;
+  color: #000000;
 }
 .top-c ul i {
   margin-right: 10px;
 }
 .top-c h3.topc-title {
   font-size: 32px;
-  color: #333333;
+  color: #000000;
   font-weight: 700;
   margin: 110px 0 30px 0;
 }
@@ -620,7 +620,7 @@ a#mobile_menu {
   }
   .top-c {
   	background-image: none;
-    background-color: #333333;
+    background-color: #39c8e2;
 	background-position: top;
 	height: auto;
     padding-bottom: 60px;
